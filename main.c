@@ -1,7 +1,7 @@
 /*
 **
 ** MyGolem v1.2
-** Adam Borucki (Sarverott) 2018
+** Sett Sarverott 2018
 ** https://github.com/Sarverott
 ** Program for Arduino, to connect with computer and read orders, expressed in commands
 */
